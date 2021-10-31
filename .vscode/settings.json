@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": false,
+    "eslint.alwaysShowOnStatus": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.codeActionsOnSave.mode": "problems",
+    "eslint.format.enable":true,
+}
